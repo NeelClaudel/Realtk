@@ -1,5 +1,10 @@
 # Realtk Estate NFT DApp
 
+Early development phase, work still in progress. build with js react, solidity.
+
+Blockchain logic only tested on local node with hardhat chain evironment not ready for production.
+You can still visit the frontend at [this place](realtk.vercel.app)
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
@@ -16,7 +21,9 @@
 
 ### 1. Clone/Download the Repository
 
-Early development phase, work still in progress
+Early development phase, work still in progress. build with js react, solidity.
+
+Blockchain logic only tested on local node with hardhat chain.
 
 ### 2. Install Dependencies:
 
