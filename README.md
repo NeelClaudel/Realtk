@@ -16,6 +16,8 @@
 
 ### 1. Clone/Download the Repository
 
+Early development phase, work still in progress
+
 ### 2. Install Dependencies:
 
 `$ npm install`
